@@ -1,0 +1,15 @@
+C:\Users\mosta\source\repos\finding perfect numbers within 2 input numpers\obj\Debug\net6.0\finding perfect numbers within 2 input numpers.csproj.AssemblyReference.cache
+C:\Users\mosta\source\repos\finding perfect numbers within 2 input numpers\obj\Debug\net6.0\finding perfect numbers within 2 input numpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosta\source\repos\finding perfect numbers within 2 input numpers\obj\Debug\net6.0\finding perfect numbers within 2 input numpers.AssemblyInfoInputs.cache
+C:\Users\mosta\source\repos\finding perfect numbers within 2 input numpers\obj\Debug\net6.0\finding perfect numbers within 2 input numpers.AssemblyInfo.cs
+C:\Users\mosta\source\repos\finding perfect numbers within 2 input numpers\obj\Debug\net6.0\finding perfect numbers within 2 input numpers.csproj.CoreCompileInputs.cache
+C:\Users\mosta\source\repos\finding perfect numbers within 2 input numpers\bin\Debug\net6.0\finding perfect numbers within 2 input numpers.exe
+C:\Users\mosta\source\repos\finding perfect numbers within 2 input numpers\bin\Debug\net6.0\finding perfect numbers within 2 input numpers.deps.json
+C:\Users\mosta\source\repos\finding perfect numbers within 2 input numpers\bin\Debug\net6.0\finding perfect numbers within 2 input numpers.runtimeconfig.json
+C:\Users\mosta\source\repos\finding perfect numbers within 2 input numpers\bin\Debug\net6.0\finding perfect numbers within 2 input numpers.dll
+C:\Users\mosta\source\repos\finding perfect numbers within 2 input numpers\bin\Debug\net6.0\finding perfect numbers within 2 input numpers.pdb
+C:\Users\mosta\source\repos\finding perfect numbers within 2 input numpers\obj\Debug\net6.0\finding perfect numbers within 2 input numpers.dll
+C:\Users\mosta\source\repos\finding perfect numbers within 2 input numpers\obj\Debug\net6.0\refint\finding perfect numbers within 2 input numpers.dll
+C:\Users\mosta\source\repos\finding perfect numbers within 2 input numpers\obj\Debug\net6.0\finding perfect numbers within 2 input numpers.pdb
+C:\Users\mosta\source\repos\finding perfect numbers within 2 input numpers\obj\Debug\net6.0\finding perfect numbers within 2 input numpers.genruntimeconfig.cache
+C:\Users\mosta\source\repos\finding perfect numbers within 2 input numpers\obj\Debug\net6.0\ref\finding perfect numbers within 2 input numpers.dll
